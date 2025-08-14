@@ -4,9 +4,9 @@
   "data": {
     "version_code": 5,
     "version_name": "1.0.4.1",
-    "update_content": "1. 修复了已知问题\n2. 优化了应用性能",
+    "update_content": "1. 修复了无法导入音乐补丁的问题\n2. 将打包按钮改为始终显示",
     "download_url": "https://share.feijipan.com/s/I1OYZaWB",
-    "force_update": false,
+    "force_update": true,
     "release_date": "2025-08-14",
     "min_supported_version": 1
   }

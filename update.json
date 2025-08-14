@@ -6,7 +6,7 @@
     "version_name": "1.0.4.1",
     "update_content": "1. 修复了已知问题\n2. 优化了应用性能",
     "download_url": "https://share.feijipan.com/s/I1OYZaWB",
-    "force_update": true,
+    "force_update": false,
     "release_date": "2025-08-14",
     "min_supported_version": 1
   }

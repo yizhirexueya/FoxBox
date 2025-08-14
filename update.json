@@ -2,7 +2,7 @@
   "code": 200,
   "message": "发现新版本",
   "data": {
-    "version_code": 4,
+    "version_code": 5,
     "version_name": "1.0.4.1",
     "update_content": "1. 修复了无法导入音乐补丁的问题\n2. 将打包按钮改为始终显示",
     "download_url": "https://share.feijipan.com/s/I1OYZaWB",

@@ -2,12 +2,12 @@
   "code": 200,
   "message": "发现新版本",
   "data": {
-    "version_code": 11,
-    "version_name": "1.1.5",
-    "update_content": "1. 新增资源包记录工具\n2. 优化软件运行效率",
-    "download_url": "https://share.feijipan.com/s/nLOpwcV1",
+    "version_code": 12,
+    "version_name": "1.1.6",
+    "update_content": "1. 优化软件运行效率",
+    "download_url": "https://cloud.06dn.com/s/kVYeCX",
     "force_update": true,
-    "release_date": "2025-09-20",
+    "release_date": "2025-10-12",
     "min_supported_version": 1
   }
 }

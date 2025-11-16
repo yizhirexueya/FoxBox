@@ -6,8 +6,8 @@
     "version_name": "1.1.8",
     "update_content": "1. 修复用户名问题\n2. 本次更新清空用户名及头像\n请用户重新设置",
     "download_url": "https://cloud.06dn.com/s/kVYeCX",
-    "force_update": false,
-    "release_date": "2025-11-15",
+    "force_update": true,
+    "release_date": "2025-11-16",
     "min_supported_version": 1
   }
 }

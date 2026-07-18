@@ -2,12 +2,12 @@
   "code": 200,
   "message": "发现新版本",
   "data": {
-    "version_code": 17,
-    "version_name": "26.05",
+    "version_code": 18,
+    "version_name": "26.07",
     "update_content": "无",
     "download_url": "https://cloud.06dn.com/s/kVYeCX",
     "force_update": true,
-    "release_date": "1980-01-01",
+    "release_date": "2026-07-18",
     "min_supported_version": 1
   }
 }

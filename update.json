@@ -2,8 +2,8 @@
   "code": 200,
   "message": "发现新版本",
   "data": {
-    "version_code": 18,
-    "version_name": "26.0.7",
+    "version_code": 19,
+    "version_name": "26.07.01",
     "update_content": "无",
     "download_url": "https://cloud.06dn.com/s/kVYeCX",
     "force_update": true,
